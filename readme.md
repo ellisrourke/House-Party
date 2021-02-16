@@ -19,7 +19,8 @@ React and django servers need to be run in parallel
 python manage.py runserver
 ```
 ```
-npm run dev```
+npm run dev
+```
 
 ## Authors
 
