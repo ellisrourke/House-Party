@@ -1,7 +1,4 @@
 # House Party 
-Simple overview of use/purpose.
-
-## Description
 
 An simple app to allow a group of users to control your music
 
